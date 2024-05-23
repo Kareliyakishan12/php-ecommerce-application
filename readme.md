@@ -85,13 +85,13 @@ This eCommerce application is designed to provide a dynamic shopping experience 
 ### Steps
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/Kareliyakishan12/php-ecommerce-application.git
+    git clone https://github.com/kishan-kareliya/php-ecommerce-application.git
     ```
 
 2. **Move the project to XAMPP's `htdocs` directory**:
     ```sh
-    mv techworld /path/to/xampp/htdocs/
-    cd /path/to/xampp/htdocs/techworld
+    mv techworld /xampp/htdocs/
+    cd /xampp/htdocs/techworld
     ```
 
 3. **Create the MySQL database**:
@@ -136,9 +136,6 @@ This eCommerce application is designed to provide a dynamic shopping experience 
 2. **Admin**: Log in to access the admin dashboard where you can manage products, categories, orders, users, and more.
 3. **Delivery Person**: Log in to view your assigned orders and update their status as they are processed.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
-For any inquiries, please contact us at [kareliyakishan007@gmail.com].
+For any inquiries, please contact us at kareliyakishan007@gmail.com.
 
