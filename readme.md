@@ -85,7 +85,7 @@ This eCommerce application is designed to provide a dynamic shopping experience 
 ### Steps
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/Kareliyskishan12/php-ecommerce-application.git
+    git clone https://github.com/Kareliyakishan12/php-ecommerce-application.git
     ```
 
 2. **Move the project to XAMPP's `htdocs` directory**:
