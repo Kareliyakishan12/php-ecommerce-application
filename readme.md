@@ -39,7 +39,7 @@ This eCommerce application is designed to provide a dynamic shopping experience 
   - Logout
   - Signup
     
-  - **Dashboard**:
+- **Dashboard**:
   - View number of products, brands, categories, delivery person, customers, contacts, revenue
   - View 5 recent orders and their delivery status
 
